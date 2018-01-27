@@ -1,0 +1,9 @@
+1.logo:personal logo create
+2.menu:
+3.introduction:information my self and my skill
+4.contract:contacte me,get name,get email
+5.client:my client information
+6.gallery:
+7.footer
+8.Demo(my work):some demo see my client.
+
